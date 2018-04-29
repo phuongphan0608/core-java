@@ -2,22 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf11e0a6-fa93-41e1-8709-29589ab6c6b8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOP/CarPrivateFieldsPublicSetGetMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/mainCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/bankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/mainBankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/vipCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlFlows/controlFlowsFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlFlows/controlFlowsSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlFlows/whileDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/mainAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/keywordsExpressionMethods/ifStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/keywordsExpressionMethods/methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/keywordsExpressionMethods/moreMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/SellingBurgers/DeluxeBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/SellingBurgers/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/SellingBurgers/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/SellingBurgers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition/Dimentions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition/MotherBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition1/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition1/BedRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition1/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition1/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/composition1/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/encapsulation/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/inheritAutomatically/extendsObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/inheritance/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/inheritance/MainCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/inheritance/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/inheritance/outLander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/polymorphismCar/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/polymorphismCar/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/polymorphismCar/Holden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/polymorphismCar/MainCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/polymorphismCar/Mitsubishi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/polymorphismMovie/Forgetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/polymorphismMovie/IndependenceDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/polymorphismMovie/Jaws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/polymorphismMovie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/polymorphismMovie/MazeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/polymorphismMovie/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/polymorphismMovie/StarWars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/OOP/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/OOP/CarPrivateFieldsPublicSetGetMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/OOP/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/OOP/bankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/OOP/mainAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/OOP/mainBankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/OOP/mainCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/OOP/vipCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/CarPrivateFieldsPublicSetGetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/classes/CarPrivateFieldsPublicSetGetMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/mainCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/classes/mainCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/bankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/constructor/bankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/mainBankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/constructor/mainBankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/vipCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/constructor/vipCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controlFlows/controlFlowsFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/controlFlows/controlFlowsFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controlFlows/controlFlowsSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/controlFlows/controlFlowsSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controlFlows/whileDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/controlFlows/whileDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataTypesOperators/byteShortIntLong.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/dataTypesOperators/byteShortIntLong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataTypesOperators/charAndBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/dataTypesOperators/charAndBoolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataTypesOperators/floatAndDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/dataTypesOperators/floatAndDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataTypesOperators/helloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/dataTypesOperators/helloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataTypesOperators/operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/dataTypesOperators/operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataTypesOperators/stringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/dataTypesOperators/stringClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/inheritance/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/inheritance/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/inheritance/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/mainAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/inheritance/mainAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keywordsExpressionMethods/ifStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/keywordsExpressionMethods/ifStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keywordsExpressionMethods/methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/keywordsExpressionMethods/methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keywordsExpressionMethods/moreMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/keywordsExpressionMethods/moreMethods.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,124 +83,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="controlFlowsFor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/controlFlows/controlFlowsFor.java">
+      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOP/polymorphismCar/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+            <state relative-caret-position="90">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="whileDoWhile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/controlFlows/whileDoWhile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" column="63" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainCar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP/mainCar.java">
+      <file leaf-file-name="Ford.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOP/polymorphismCar/Ford.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainBankAccount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/constructor/mainBankAccount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vipCustomer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/constructor/vipCustomer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
               <folding>
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-                <element signature="e#975#976#0" expanded="true" />
-                <element signature="e#1002#1003#0" expanded="true" />
-                <element signature="e#1040#1041#0" expanded="true" />
-                <element signature="e#1074#1075#0" expanded="true" />
-                <element signature="e#1106#1107#0" expanded="true" />
-                <element signature="e#1134#1135#0" expanded="true" />
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inheritance/Animal.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOP/SellingBurgers/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HealthyBurger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOP/SellingBurgers/HealthyBurger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="43">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
               <folding>
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#525#526#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#545#546#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#712#713#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
-                <element signature="e#771#772#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bankAccount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/constructor/bankAccount.java">
+      <file leaf-file-name="DeluxeBurger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOP/SellingBurgers/DeluxeBurger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="43" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fish.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inheritance/Fish.java">
+      <file leaf-file-name="Hamburger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOP/SellingBurgers/Hamburger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inheritance/Dog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-                <element signature="e#967#968#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainAnimal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inheritance/mainAnimal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="90">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -163,47 +154,78 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getClass</find>
+      <find>addition1Name</find>
+      <find>3</find>
+      <find>Hamburger</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/ByteShortIntLong.java" />
-        <option value="$PROJECT_DIR$/src/byteShortIntLong.java" />
-        <option value="$PROJECT_DIR$/src/floatAndDouble.java" />
-        <option value="$PROJECT_DIR$/src/charAndBoolean.java" />
-        <option value="$PROJECT_DIR$/src/stringClass.java" />
-        <option value="$PROJECT_DIR$/src/operators.java" />
-        <option value="$PROJECT_DIR$/src/dataTypesOperators/operators.java" />
-        <option value="$PROJECT_DIR$/src/keywordsExpression/ifStatement.java" />
-        <option value="$PROJECT_DIR$/src/keywordsExpression/methods.java" />
-        <option value="$PROJECT_DIR$/src/keywordsExpressionMethods/methods.java" />
-        <option value="$PROJECT_DIR$/src/keywordsExpressionMethods/moreMethods.java" />
-        <option value="$PROJECT_DIR$/src/keywordsExpressionMethods/controlFlows.java" />
-        <option value="$PROJECT_DIR$/src/keywordsExpressionMethods/controlFlowsSwitch.java" />
-        <option value="$PROJECT_DIR$/src/controlFlows/controlFlowsFor.java" />
-        <option value="$PROJECT_DIR$/src/controlFlows/whileDoWhile.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Car.java" />
-        <option value="$PROJECT_DIR$/src/OOP/myClass.java" />
-        <option value="$PROJECT_DIR$/src/OOP/mainCar.java" />
-        <option value="$PROJECT_DIR$/src/OOP/contructorsClass.java" />
-        <option value="$PROJECT_DIR$/src/OOP/bankAccount.java" />
-        <option value="$PROJECT_DIR$/src/OOP/vipCustomer.java" />
-        <option value="$PROJECT_DIR$/src/OOP/mainBankAccount.java" />
-        <option value="$PROJECT_DIR$/src/OOP/dog.java" />
-        <option value="$PROJECT_DIR$/src/OOP/mainAnimal.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Animal.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Fish.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Dog.java" />
         <option value="$PROJECT_DIR$/src/constructor/mainBankAccount.java" />
+        <option value="$PROJECT_DIR$/src/constructor/vipCustomer.java" />
+        <option value="$PROJECT_DIR$/src/inheritAutomatically/extendsObject.java" />
+        <option value="$PROJECT_DIR$/src/inheritance/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/inheritance/Car.java" />
+        <option value="$PROJECT_DIR$/src/inheritance/outLander.java" />
+        <option value="$PROJECT_DIR$/src/inheritance/MainCar.java" />
+        <option value="$PROJECT_DIR$/src/composition/MotherBoard.java" />
+        <option value="$PROJECT_DIR$/src/composition/Monitor.java" />
+        <option value="$PROJECT_DIR$/src/composition/Dimentions.java" />
+        <option value="$PROJECT_DIR$/src/composition/Case.java" />
+        <option value="$PROJECT_DIR$/src/composition/Resolution.java" />
+        <option value="$PROJECT_DIR$/src/composition1/Room.java" />
+        <option value="$PROJECT_DIR$/src/composition/Main.java" />
+        <option value="$PROJECT_DIR$/src/composition/PC.java" />
+        <option value="$PROJECT_DIR$/src/composition1/Bed.java" />
+        <option value="$PROJECT_DIR$/src/composition1/Ceiling.java" />
+        <option value="$PROJECT_DIR$/src/composition1/Lamp.java" />
+        <option value="$PROJECT_DIR$/src/composition1/Wall.java" />
+        <option value="$PROJECT_DIR$/src/composition1/BedRoom.java" />
+        <option value="$PROJECT_DIR$/src/composition1/Main.java" />
+        <option value="$PROJECT_DIR$/OOP/encapsulation/Printer.java" />
+        <option value="$PROJECT_DIR$/OOP/encapsulation/Main.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphism/Main.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphism/Car.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphism/Jaws.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphism/IndependenceDay.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphism/MazeRunner.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphism/StarWars.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphism/Movie.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphism/Forgetable.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphism/MainCar.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphismMovie/Jaws.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphismMovie/IndependenceDay.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphismMovie/MazeRunner.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphismMovie/Movie.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphismMovie/Main.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphismCar/Mitsubishi.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphismCar/Car.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphismCar/Holen.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphismCar/MainCar.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphismCar/Holden.java" />
+        <option value="$PROJECT_DIR$/OOP/Challenge1/Main.java" />
+        <option value="$PROJECT_DIR$/OOP/SellingBurgers/Burger.java" />
+        <option value="$PROJECT_DIR$/OOP/SellingBurgers/Additions.java" />
+        <option value="$PROJECT_DIR$/OOP/SellingBurgers/Basic.java" />
+        <option value="$PROJECT_DIR$/OOP/polymorphismCar/Ford.java" />
+        <option value="$PROJECT_DIR$/OOP/SellingBurgers/Hamburger.java" />
+        <option value="$PROJECT_DIR$/OOP/SellingBurgers/DeluxeBurger.java" />
+        <option value="$PROJECT_DIR$/OOP/SellingBurgers/HealthyBurger.java" />
+        <option value="$PROJECT_DIR$/OOP/SellingBurgers/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="y" value="23" />
+    <option name="width" value="640" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -213,7 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,13 +245,18 @@
             <path>
               <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
               <item name="core-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
               <item name="core-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-java" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
@@ -240,12 +266,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
@@ -262,64 +290,75 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.mainAnimal">
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulation.Main" />
+      <module name="JavaPrograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphismMovie.Main" />
+      <module name="JavaPrograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphismMovie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SellingBurgers.Main" />
+      <module name="JavaPrograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SellingBurgers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composition.Main" />
+      <module name="JavaPrograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="composition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.Main" />
+      <module name="JavaPrograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphismCar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MainCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphismCar.MainCar" />
+      <module name="JavaPrograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphismCar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="controlFlowsFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlFlows.controlFlowsFor" />
-      <module name="JavaPrograms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="controlFlows.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="mainAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.mainAnimal" />
-      <module name="JavaPrograms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="mainBankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructor.mainBankAccount" />
-      <module name="JavaPrograms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="mainCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.mainCar" />
-      <module name="JavaPrograms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="whileDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlFlows.whileDoWhile" />
-      <module name="JavaPrograms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="controlFlows.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -360,19 +399,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.controlFlowsFor" />
-      <item itemvalue="Application.whileDoWhile" />
-      <item itemvalue="Application.mainCar" />
-      <item itemvalue="Application.mainBankAccount" />
-      <item itemvalue="Application.mainAnimal" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.MainCar (1)" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.mainAnimal" />
-        <item itemvalue="Application.mainBankAccount" />
-        <item itemvalue="Application.mainCar" />
-        <item itemvalue="Application.whileDoWhile" />
-        <item itemvalue="Application.controlFlowsFor" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.MainCar (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -400,12 +439,12 @@
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" x="-32" y="256" width="1280" height="246" id="Run" order="10" visible="true" weight="0.4510345" />
+      <window_info anchor="bottom" x="-32" y="256" width="1280" height="246" id="Run" order="10" visible="true" weight="0.4648276" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40306947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4095315" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32965517" />
       <window_info id="Learn" order="2" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -417,276 +456,626 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="bottom" x="-32" y="256" width="1280" height="246" id="Run" order="10" visible="true" weight="0.4510345" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.32390952" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" x="-32" y="256" width="1280" height="246" id="Run" order="10" visible="true" weight="0.4648276" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41033927" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.39973262" />
-      <window_info id="Learn" order="3" weight="0.32956383" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32965517" />
+      <window_info id="Learn" order="5" weight="0.32956383" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39973262" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Messages" internal_type="SLIDING" order="0" type="SLIDING" weight="0.32827586" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Favorites" order="7" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOP/polymorphismCar/MainCar.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOP/polymorphismCar/Car.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dataTypesOperators/charAndBoolean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/keywordsExpressionMethods/ifStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlFlows/controlFlowsSwitch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlFlows/controlFlowsFor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlFlows/whileDoWhile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="63" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/mainCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/constructor/bankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/constructor/mainBankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dataTypesOperators/helloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dataTypesOperators/floatAndDouble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dataTypesOperators/stringClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dataTypesOperators/byteShortIntLong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dataTypesOperators/operators.java">
+    <entry file="file://$PROJECT_DIR$/OOP/inheritance/mainAnimal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/keywordsExpressionMethods/methods.java">
+    <entry file="file://$PROJECT_DIR$/OOP/controlFlows/controlFlowsFor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+        <state relative-caret-position="33">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/keywordsExpressionMethods/moreMethods.java">
+    <entry file="file://$PROJECT_DIR$/OOP/inheritance/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dataTypesOperators/charAndBoolean.java">
+    <entry file="file://$PROJECT_DIR$/OOP/inheritance/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/inheritance/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/constructor/bankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/constructor/vipCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/inheritance/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1158#1159#0" expanded="true" />
+            <element signature="e#1190#1191#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1512#1513#0" expanded="true" />
+            <element signature="e#1483#1484#0" expanded="true" />
+            <element signature="e#1510#1511#0" expanded="true" />
+            <element signature="e#1541#1542#0" expanded="true" />
+            <element signature="e#1568#1569#0" expanded="true" />
+            <element signature="e#1535#1536#0" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
+            <element signature="e#1613#1614#0" expanded="true" />
+            <element signature="e#1652#1653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5326">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/inheritAutomatically/extendsObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/inheritance/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/composition/MotherBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="19" column="70" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+          <folding>
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/awt/Dimension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/composition/Dimentions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/keywordsExpressionMethods/ifStatement.java">
+    <entry file="file://$PROJECT_DIR$/OOP/composition/Resolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" selection-start-line="6" selection-start-column="7" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlFlows/controlFlowsSwitch.java">
+    <entry file="file://$PROJECT_DIR$/OOP/composition/Monitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="240">
+          <caret line="16" column="86" selection-start-line="16" selection-start-column="86" selection-end-line="16" selection-end-column="86" />
+          <folding>
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlFlows/controlFlowsFor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlFlows/whileDoWhile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="63" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/CarPrivateFieldsPublicSetGetMethods.java">
+    <entry file="file://$PROJECT_DIR$/OOP/inheritance/MainCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/mainCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/contructorsClass.java" />
-    <entry file="file://$PROJECT_DIR$/src/inheritance/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/composition1/Room.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/inheritance/outLander.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/composition/Case.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
           <folding>
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#967#968#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/Fish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/mainAnimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/constructor/bankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/constructor/mainBankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/constructor/vipCustomer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
             <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1040#1041#0" expanded="true" />
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#1106#1107#0" expanded="true" />
-            <element signature="e#1134#1135#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/composition/PC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/composition1/Ceiling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/composition1/Lamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding>
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/composition1/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/composition1/Bed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/composition1/BedRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding>
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/composition/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/composition1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/encapsulation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/encapsulation/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphism/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="70" lean-forward="true" selection-start-line="52" selection-end-line="70" />
+          <folding>
+            <element signature="class#Movie#0" />
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="class#Jaws#0" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="class#MazeRunner#0" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="class#StarWars#0" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="class#Forgetable#0" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+          <folding>
+            <element signature="e#32010#32011#0" expanded="true" />
+            <element signature="e#32095#32096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphismMovie/StarWars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphismMovie/Jaws.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphismMovie/IndependenceDay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphismMovie/MazeRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphismMovie/Forgetable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphismMovie/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphismMovie/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphismCar/Mitsubishi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphismCar/Holden.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphismCar/MainCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphismCar/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="1117" column="17" lean-forward="true" selection-start-line="1117" selection-start-column="17" selection-end-line="1117" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/SellingBurgers/Additions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/SellingBurgers/Basic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/polymorphismCar/Ford.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/SellingBurgers/Hamburger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/SellingBurgers/DeluxeBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/SellingBurgers/HealthyBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/SellingBurgers/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
